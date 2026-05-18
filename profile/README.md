@@ -1,6 +1,3 @@
-## Hi there 👋
-
-
 # <div align="center">CinemaX</div>
 
 <div align="center">
@@ -53,7 +50,7 @@ Admins can:
 ## Experience Preview
 
 <div align="center">
-  <img src="./screenshots/home-hero.png" alt="CinemaX home hero" width="90%">
+  <img src="./home-hero.png" alt="CinemaX home hero" width="90%">
 </div>
 
 <br />
@@ -63,19 +60,19 @@ Admins can:
     <td align="center" width="50%">
       <strong>Featured Movies</strong>
       <br /><br />
-      <img src="./screenshots/featured-movies.png" alt="Featured movies section" width="100%">
+      <img src="./featured-movies.png" alt="Featured movies section" width="100%">
     </td>
     <td align="center" width="50%">
       <strong>Seat Selection</strong>
       <br /><br />
-      <img src="./screenshots/seat-selection.png" alt="Seat selection screen" width="100%">
+      <img src="./seat-selection.png" alt="Seat selection screen" width="100%">
     </td>
   </tr>
   <tr>
     <td align="center" width="50%">
       <strong>Seat Legend</strong>
       <br /><br />
-      <img src="./screenshots/seat-legend.png" alt="Seat legend and pricing" width="100%">
+      <img src="./seat-legend.png" alt="Seat legend and pricing" width="100%">
     </td>
     <td align="center" width="50%">
       <strong>Project Vision</strong>
